@@ -31,7 +31,7 @@ The data set contains the following diseases:
 - To eliminate class imbalance, data augmentation was used to generate more images to the training set.
 - seborrheic keratosis class has the least number of samples.
 - melanoma and pigmented benign keratosis dominate the data in terms of proportionate number of samples.
-- We can see an interesting trend when epoch is increased to a high value around 50. The training accuracy is increasing gradually but the validation accuracy is nearly static with increasing epochs.
+- When epoch is increased to a high value around 50, the training accuracy is increased but the validation accuracy remains static as the training progresses.
 - The gap of validation and train accuracy is increasing with epoch more than 10. Similar trend is there for loss function as well.
 - When number of epochs are increased to 20, we observed overfitting. IF the number of epochs are lesser than 10, the model was learning properly with less accuracy in the training.
 - After increasing epochs and class rebalancing, the accuracy improved.
