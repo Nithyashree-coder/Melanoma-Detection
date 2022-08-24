@@ -38,7 +38,7 @@ The data set contains the following diseases:
 
 
 ## Acknowledgements
-This project is created as part of upgrad assignment on melanoma detection. Thanks to upgrad for inspiring to work on interesting problems.
+This project is created as part of upgrad assignment on melanoma detection. With this, complex problems like convolutional neural networks built from scratch was learned.  
 
 ## Contact
 Created by [@Nithyashree-coder] - feel free to contact me!
