@@ -33,7 +33,7 @@ The data set contains the following diseases:
 - melanoma and pigmented benign keratosis dominate the data in terms of proportionate number of samples.
 - When epoch is increased to a high value around 50, the training accuracy is increased but the validation accuracy remains static as the training progresses.
 - The gap of validation and train accuracy is increasing with epoch more than 10. Similar trend is there for loss function as well.
-- When number of epochs are increased to 20, we observed overfitting. IF the number of epochs are lesser than 10, the model was learning properly with less accuracy in the training.
+- When number of epochs are increased to 20, we observed overfitting. If the number of epochs are lesser than 10, the model was learning properly with less accuracy in the training.
 - After increasing epochs and class rebalancing, the accuracy improved.
 
 
