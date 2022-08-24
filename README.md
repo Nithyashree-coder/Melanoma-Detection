@@ -1,6 +1,4 @@
-# Project Name
-> Melanoma Detection
-
+# Melanoma Detection
 
 ## Table of Contents
 * [Overview](#Overview)
